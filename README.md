@@ -60,14 +60,6 @@ Git | GitHub | VS Code |
 ## 🚀 Interests
 
 AI • Automation • Data Engineering • Signal Processing • Computer Vision  
-
----
- 
-## GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiseragabi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiseragabi&layout=compact&theme=tokyonight)
  
 ---
 
