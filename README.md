@@ -1,7 +1,7 @@
 # Hi, I'm Gabi 👋
 
-🎓 Control & Automation Engineering @ UTFPR  
-💼 Process Automation & Data Intern @ Votorantim  
+🎓 Control & Automation Engineering - UTFPR  
+💼 Process Automation & Data Intern - CoE Votorantim  
 
 🚀 Passionate about automation, data, AI, and engineering solutions  
 
