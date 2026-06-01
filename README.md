@@ -70,7 +70,6 @@ AI • Automation • Data Engineering • Signal Processing • Computer Vision
 📍 Curitiba, Brasil  
 
 ---
----
 
 <div align="center">
   
